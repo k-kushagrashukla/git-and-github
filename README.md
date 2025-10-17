@@ -3,7 +3,7 @@
 ## Git (VCS-Version Control System)
 - Git is nothing but it tracks changes in the files , which we or you made
 - It is free and Open-source , so it can be used by me or you or by your family , basically everyone
-- Also Git is a software nothing mpre than that and nothing less than that
+- Also Git is a software nothing more than that and nothing less than that
 
 ## VCS (Version Control System)
 - basically VCS are used to store and manage the history of code
